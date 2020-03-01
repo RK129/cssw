@@ -1,0 +1,176 @@
+a:hover {
+  color: black;
+}
+
+a {
+  color: #11999E;
+  margin-bottom: 100px;
+}
+
+hr {
+  border: dotted #75daad 10px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+body {
+  margin: 0;
+  font-family: 'Merriweather Sans',;
+}
+
+ol {
+  position: relative;
+  bottom: 10px;
+  color: #11999E;
+  /* NOTE: color: white;  */
+}
+
+h1 {
+  color: #11999E;
+  margin: 35px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif ;
+}
+
+.skill-row {
+  display: inline-block;
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.center {
+  text-align: center;
+}
+
+.volcano-flame {
+  background-color: #75daad;
+  position: relative;
+  bottom: 260px;
+  height: 100px;
+  width: 200px;
+  left: 275px;
+}
+
+.volcano {
+  position: relative;
+  right: 100px;
+  top: 30px;
+}
+
+.CM-a {
+  text-align: left;
+}
+
+.contact-message {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.Contact-Me {
+  background-color: #75daad;
+  text-align: center;
+  color: #11999E;
+  padding: 20px 0 20px;
+}
+
+.pro {
+  font-weight: normal;
+  color: #11999E;
+
+}
+
+.image-icon_WICD {
+  height: 200px;
+  width: 25%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.image-icon_money {
+  height: 200px;
+  width: 25%;
+  border-radius: 50%;
+  float: right;
+  margin-right: 30px;
+}
+
+.Radin-icon {
+  padding-top: 40px;
+  height: 250px;
+  width: 225px;
+  border-radius: 50%;
+}
+
+.CM-class {
+  margin-bottom: 40px;
+}
+
+.anchor {
+  margin-top: 100px;
+}
+
+.top-container {
+  background-color: #75daad;
+  color: #11999E;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 30px;
+}
+
+.middle-container {
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.myButton {
+	background-color:#11cdd4;
+	border-radius:8px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Montserrat', sans-serif;
+	font-size:17px;
+	padding:16px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+  margin: -13px auto 10px;
+}
+.myButton:hover {
+	background-color:#30e3cb;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
